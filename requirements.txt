@@ -1,0 +1,6 @@
+Microsoft Cognitive API
+opencv
+dlib
+sqlite3 
+tkinter
+ImageTK
