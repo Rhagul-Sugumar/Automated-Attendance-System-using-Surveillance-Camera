@@ -4,3 +4,4 @@ dlib
 sqlite3 
 tkinter
 ImageTK
+PIL
