@@ -5,3 +5,5 @@ sqlite3
 tkinter
 ImageTK
 Pillow
+DB Browser
+IDE(spyder)
