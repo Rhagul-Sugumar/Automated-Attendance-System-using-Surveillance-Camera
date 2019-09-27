@@ -1,6 +1,6 @@
 import cv2
 
-vidcap = cv2.VideoCapture('rtsp://itlab:itlab123456@10.10.7.250:554/Streaming/Channels/101')
+vidcap = cv2.VideoCapture('======YOUR CAMERA IP ADDRESS=====')
 count = 0
 success = True
 fps = int(vidcap.get(cv2.CAP_PROP_FPS))
