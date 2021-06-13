@@ -8,7 +8,7 @@ Created on Mon Jul 15 21:37:58 2019
 import numpy as np
 import cv2
 faceCascade = cv2.CascadeClassifier(r'D:\casacdes\haarcascade_frontalface_default.xml')
-cap = cv2.VideoCapture('rtsp://project:project1@10.10.133.225:555/live')
+cap = cv2.VideoCapture('')
 cap.set(3,640) # set Width
 cap.set(4,480) # set Height
 while True:
