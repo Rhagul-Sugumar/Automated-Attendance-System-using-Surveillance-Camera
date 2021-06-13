@@ -2,7 +2,7 @@
 import cv2
 import time
 cv2.namedWindow("preview")
-vc = cv2.VideoCapture('rtsp://project:project1@10.10.133.225:554/live')
+vc = cv2.VideoCapture('')
 i=0
 
 if vc.isOpened(): 
